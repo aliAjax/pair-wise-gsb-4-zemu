@@ -1,0 +1,1 @@
+{"compilerOptions":{"target":"ES2020","module":"CommonJS","moduleResolution":"Bundler","outDir":".dist-test","rootDir":".","strict":true,"skipLibCheck":true,"esModuleInterop":true},"include":["src/domain","test/run.ts"]}
